@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppAdapterOpet.iml" filepath="$PROJECT_DIR$/AppAdapterOpet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppAdapterOpet.iml" filepath="$PROJECT_DIR$/.idea/AppAdapterOpet.iml" />
+      <module fileurl="file://C:\Users\opet\Downloads\AppAdapterOpet\AppAdapterOpet.iml" filepath="C:\Users\opet\Downloads\AppAdapterOpet\AppAdapterOpet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\opet\Downloads\AppAdapterOpet\app\app.iml" filepath="C:\Users\opet\Downloads\AppAdapterOpet\app\app.iml" />
     </modules>
   </component>
 </project>
